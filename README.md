@@ -1,0 +1,1 @@
+This is a coreset of PDBbind. It contain 284 selected complex. Each complex folder contains info of protein and ligand. 267 of them have metrics.csv which contains docking score calcuated by openeye docking script.
