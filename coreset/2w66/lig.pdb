@@ -1,0 +1,64 @@
+ATOM      1  N   GLY A   1       7.260  26.393  15.935  1.00 20.00           N
+ATOM      2  CA  GLY A   1       7.774  25.016  15.617  1.00 20.00           C
+ATOM      3  C   GLY A   1       6.565  24.148  15.267  1.00 20.00           C
+ATOM      4  O   GLY A   1       5.671  24.162  16.364  1.00 20.00           O
+ATOM      5  H   GLY A   1       4.911  23.605  16.122  1.00 20.00           H
+ATOM      6  H1  GLY A   1       6.363  26.289  16.430  1.00 20.00           H
+ATOM      7  H2  GLY A   1       7.026  26.903  15.071  1.00 20.00           H
+ATOM      8  HA  GLY A   1       8.222  24.621  16.536  1.00 20.00           H
+ATOM      9  H'2 GLY A   1       6.888  23.126  15.076  1.00 20.00           H
+ATOM     10  H'3 GLY A   1       6.065  24.549  14.387  1.00 20.00           H
+HETATM   11  C1  UNK A   1      11.210  28.513  13.033  1.00 20.00           C
+HETATM   12  C2  UNK A   1       8.140  27.216  16.817  1.00 20.00           C
+HETATM   13  C3  UNK A   1       9.683  27.489  14.709  1.00 20.00           C
+HETATM   14  C4  UNK A   1       9.128  28.063  16.025  1.00 20.00           C
+HETATM   15  C5  UNK A   1      10.029  25.989  14.725  1.00 20.00           C
+HETATM   16  C6  UNK A   1       8.820  25.062  14.494  1.00 20.00           C
+HETATM   17  C7  UNK A   1      12.460  29.317  12.888  1.00 20.00           C
+HETATM   18  N8  UNK A   1      10.867  28.255  14.340  1.00 20.00           N
+HETATM   19  O9  UNK A   1      10.603  28.156  12.030  1.00 20.00           O
+HETATM   20  O10 UNK A   1       8.507  29.322  15.736  1.00 20.00           O
+HETATM   21  O11 UNK A   1      10.703  25.645  15.930  1.00 20.00           O
+HETATM   22  O12 UNK A   1       8.220  25.404  13.245  1.00 20.00           O
+HETATM   23  H22 UNK A   1       8.649  26.534  17.506  1.00 20.00           H
+HETATM   24  H23 UNK A   1       7.467  27.850  17.406  1.00 20.00           H
+HETATM   25  H3  UNK A   1       8.979  27.698  13.893  1.00 20.00           H
+HETATM   26  H4  UNK A   1       9.966  28.288  16.709  1.00 20.00           H
+HETATM   27  H5  UNK A   1      10.726  25.801  13.898  1.00 20.00           H
+HETATM   28  H6  UNK A   1       9.214  24.043  14.384  1.00 20.00           H
+HETATM   29  H71 UNK A   1      13.361  28.686  12.823  1.00 20.00           H
+HETATM   30  H72 UNK A   1      12.464  29.927  11.971  1.00 20.00           H
+HETATM   31  H73 UNK A   1      12.662  30.026  13.708  1.00 20.00           H
+HETATM   32  H8  UNK A   1      11.461  28.612  15.077  1.00 20.00           H
+HETATM   33  H10 UNK A   1       8.299  29.721  16.593  1.00 20.00           H
+HETATM   34  H11 UNK A   1      10.893  24.695  15.882  1.00 20.00           H
+HETATM   35  H12 UNK A   1       8.902  25.272  12.568  1.00 20.00           H
+TER      36      UNK A   1 
+CONECT    1   12
+CONECT    2   16
+CONECT   11   17   18   19
+CONECT   12    1   14   23   24
+CONECT   13   14   15   18   25
+CONECT   14   12   13   20   26
+CONECT   15   13   16   21   27
+CONECT   16    2   15   22   28
+CONECT   17   11   29   30   31
+CONECT   18   11   13   32
+CONECT   19   11
+CONECT   20   14   33
+CONECT   21   15   34
+CONECT   22   16   35
+CONECT   23   12
+CONECT   24   12
+CONECT   25   13
+CONECT   26   14
+CONECT   27   15
+CONECT   28   16
+CONECT   29   17
+CONECT   30   17
+CONECT   31   17
+CONECT   32   18
+CONECT   33   20
+CONECT   34   21
+CONECT   35   22
+END

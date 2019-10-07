@@ -1,0 +1,80 @@
+HETATM    1  C1  UNL     1      -7.584  34.854  72.742  1.00 20.00           C
+HETATM    2  C2  UNL     1     -10.629  35.460  66.300  1.00 20.00           C
+HETATM    3  C3  UNL     1      -9.194  33.565  66.729  1.00 20.00           C
+HETATM    4  C4  UNL     1      -7.651  34.728  71.356  1.00 20.00           C
+HETATM    5  C5  UNL     1      -8.757  34.893  73.492  1.00 20.00           C
+HETATM    6  C6  UNL     1     -10.522  35.231  64.928  1.00 20.00           C
+HETATM    7  C7  UNL     1      -9.087  33.335  65.358  1.00 20.00           C
+HETATM    8  C8  UNL     1      -9.964  34.627  67.200  1.00 20.00           C
+HETATM    9  C9  UNL     1     -10.080  34.639  71.465  1.00 20.00           C
+HETATM   10  C10 UNL     1      -8.892  34.642  70.719  1.00 20.00           C
+HETATM   11  C11 UNL     1      -9.751  34.168  64.457  1.00 20.00           C
+HETATM   12  C12 UNL     1      -9.996  34.790  72.858  1.00 20.00           C
+HETATM   13  C13 UNL     1     -11.781  32.126  70.613  1.00 20.00           C
+HETATM   14  C14 UNL     1     -12.306  33.373  71.312  1.00 20.00           C
+HETATM   15  C15 UNL     1     -11.193  32.607  69.288  1.00 20.00           C
+HETATM   16  C16 UNL     1     -11.426  34.512  70.790  1.00 20.00           C
+HETATM   17  C17 UNL     1     -10.081  34.877  68.693  1.00 20.00           C
+HETATM   18  C18 UNL     1     -11.281  34.146  69.305  1.00 20.00           C
+HETATM   19  O19 UNL     1      -8.854  34.529  69.352  1.00 20.00           O
+HETATM   20  O20 UNL     1      -9.648  33.943  63.119  1.00 20.00           O
+HETATM   21  O21 UNL     1     -11.112  34.901  73.635  1.00 20.00           O
+HETATM   22  H22 UNL     1      -6.620  34.933  73.235  1.00 20.00           H
+HETATM   23  H23 UNL     1     -11.231  36.291  66.658  1.00 20.00           H
+HETATM   24  H24 UNL     1      -8.673  32.910  67.423  1.00 20.00           H
+HETATM   25  H25 UNL     1      -6.732  34.709  70.776  1.00 20.00           H
+HETATM   26  H26 UNL     1      -8.699  35.012  74.570  1.00 20.00           H
+HETATM   27  H27 UNL     1     -11.042  35.883  64.232  1.00 20.00           H
+HETATM   28  H28 UNL     1      -8.486  32.505  64.997  1.00 20.00           H
+HETATM   29  H29 UNL     1     -10.996  31.657  71.217  1.00 20.00           H
+HETATM   30  H30 UNL     1     -12.571  31.382  70.465  1.00 20.00           H
+HETATM   31  H31 UNL     1     -13.343  33.547  70.995  1.00 20.00           H
+HETATM   32  H32 UNL     1     -12.322  33.239  72.395  1.00 20.00           H
+HETATM   33  H33 UNL     1     -10.166  32.241  69.183  1.00 20.00           H
+HETATM   34  H34 UNL     1     -11.762  32.205  68.442  1.00 20.00           H
+HETATM   35  H35 UNL     1     -11.942  35.475  70.891  1.00 20.00           H
+HETATM   36  H36 UNL     1     -10.227  35.979  68.809  1.00 20.00           H
+HETATM   37  H37 UNL     1     -12.200  34.435  68.776  1.00 20.00           H
+HETATM   38  H38 UNL     1      -9.082  33.173  62.949  1.00 20.00           H
+HETATM   39  H39 UNL     1     -10.860  35.043  74.560  1.00 20.00           H
+TER      40      UNL     1 
+CONECT    1    4    5   22
+CONECT    2    6    8   23
+CONECT    3    7    8   24
+CONECT    4    1   10   25
+CONECT    5    1   12   26
+CONECT    6    2   11   27
+CONECT    7    3   11   28
+CONECT    8    2    3   17
+CONECT    9   10   12   16
+CONECT   10    4    9   19
+CONECT   11    6    7   20
+CONECT   12    5    9   21
+CONECT   13   14   15   29   30
+CONECT   14   13   16   31   32
+CONECT   15   13   18   33   34
+CONECT   16    9   14   18   35
+CONECT   17    8   18   19   36
+CONECT   18   15   16   17   37
+CONECT   19   10   17
+CONECT   20   11   38
+CONECT   21   12   39
+CONECT   22    1
+CONECT   23    2
+CONECT   24    3
+CONECT   25    4
+CONECT   26    5
+CONECT   27    6
+CONECT   28    7
+CONECT   29   13
+CONECT   30   13
+CONECT   31   14
+CONECT   32   14
+CONECT   33   15
+CONECT   34   15
+CONECT   35   16
+CONECT   36   17
+CONECT   37   18
+CONECT   38   20
+CONECT   39   21
+END
